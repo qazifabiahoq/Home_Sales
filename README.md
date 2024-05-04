@@ -23,11 +23,13 @@ A temporary table named "home_sales" is created from the DataFrame for easy quer
 Average Price for Four-Bedroom Houses Sold Each Year
 
 Query: Calculate the average price for a four-bedroom house sold for each year.
+
 Finding: The average price for four-bedroom houses varies from year to year, with some years showing higher prices due to market conditions or other factors.
 
 Average Price of Homes with Three Bedrooms and Three Bathrooms Each Year
 
 Query: Calculate the average price of a home for each year the home was built, with three bedrooms and three bathrooms.
+
 Finding: Homes with three bedrooms and three bathrooms tend to have consistent average prices across different years, indicating a stable market for such properties.
 
 Average Price of Homes with Specific Criteria Each Year
